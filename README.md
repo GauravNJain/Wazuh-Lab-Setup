@@ -102,4 +102,4 @@ Setting up this Wazuh SIEM lab has given me real, hands-on experience with endpo
 
 ## 📚 Reference
 
-*Referred from the* <a href="https://documentation.wazuh.com/current/quickstart.html">official Wazuh Quickstart Guide</a>
+*Referred from the* <a href="https://documentation.wazuh.com/current/quickstart.html" target="_blank" rel="noopener noreferrer">official Wazuh Quickstart Guide</a>
