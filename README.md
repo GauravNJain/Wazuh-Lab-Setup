@@ -7,7 +7,7 @@ This project includes a complete setup of the Wazuh Manager, Dashboard, and mult
 
 <!-- Banner Image at the Top -->
 <p align="center">
-  <img src="lab%20screenshots/WazuhBannerImage.png" alt="Wazuh Lab Banner" height="70%" width="70%">
+  <img src="lab%20screenshots/WazuhBannerImage.png" alt="Wazuh Lab Banner" width="80%">
 </p>
 
 ---
@@ -102,4 +102,4 @@ Setting up this Wazuh SIEM lab has given me real, hands-on experience with endpo
 
 ## 📚 Reference
 
-Referred from the ![official Wazuh Quickstart Guide](https://documentation.wazuh.com/current/quickstart.html)
+*Referred from the* ![official Wazuh Quickstart Guide](https://documentation.wazuh.com/current/quickstart.html)
