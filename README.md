@@ -5,6 +5,11 @@ This project includes a complete setup of the Wazuh Manager, Dashboard, and mult
 
 > 🔥 **Goal:** Build my own SIEM environment, understand endpoint telemetry, and explore how Wazuh strengthens visibility, detection, and response.
 
+<!-- Banner Image at the Top -->
+<p align="center">
+  <img src="lab%20screenshots/WazuhBannerImage.png" alt="Wazuh Lab Banner" height="70%" width="70%">
+</p>
+
 ---
 
 ## 🏗️ Lab Architecture
@@ -91,7 +96,7 @@ curl -sO https://packages.wazuh.com/4.14/wazuh-install.sh && sudo bash ./wazuh-i
 
 ## 🎯 Conclusion
 
-Setting up this Wazuh SIEM lab has given me real, hands-on experience with endpoint monitoring, threat detection, log analytics, and vulnerability assessment across both Linux and Windows environments. By deploying multiple agents and exploring dashboards like MITRE ATT&CK, Threat Hunting, and Vulnerability Detection, *(and much more..)* I now have a fully functional mini-SOC to sharpen my blue-team skills every day.
+Setting up this Wazuh SIEM lab has given me real, hands-on experience with endpoint monitoring, threat detection, log analytics, and vulnerability assessment *(and much more..)* across both Linux and Windows environments. Wazuh is an incredibly powerful and versatile tool that makes it easy to gain deep visibility into your endpoints, detect advanced threats, and analyze security events in real time. By deploying multiple agents and exploring dashboards like MITRE ATT&CK, Threat Hunting, and Vulnerability Detection, I now have a fully functional mini-SOC to sharpen my blue-team skills and understand enterprise-grade security monitoring first-hand.
 
 ---
 
